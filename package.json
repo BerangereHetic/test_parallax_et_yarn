@@ -1,0 +1,10 @@
+{
+  "name": "test_parallax_et_yarn",
+  "version": "1.0.0",
+  "description": "juste un test sur le parallax et yarn",
+  "main": "index.html",
+  "repository": "git+https://github.com/BerangereHetic/test_parallax_et_yarn.git",
+  "author": "Berangere Martin",
+  "license": "ISC",
+  "private": null
+}
